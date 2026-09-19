@@ -1,0 +1,327 @@
+{
+  "main": {
+    "id": "2a5cdbd33035704e",
+    "type": "split",
+    "children": [
+      {
+        "id": "9f96c6c574e494c0",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "748c27c0fd973085",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Katame-waza.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Katame-waza"
+            }
+          },
+          {
+            "id": "2d7d76409c64a391",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Nage-waza.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Nage-waza"
+            }
+          },
+          {
+            "id": "118e58824f5fe42a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "O-soto-gari.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "O-soto-gari"
+            }
+          },
+          {
+            "id": "8be691af73c51244",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Randori.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Randori"
+            }
+          },
+          {
+            "id": "325f94349ddd10b5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Reglamento.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Reglamento"
+            }
+          },
+          {
+            "id": "9e254500a65214c2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Seoi-nage.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Seoi-nage"
+            }
+          },
+          {
+            "id": "4bfd56d890bc9aa4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Técnicas de Judo.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Técnicas de Judo"
+            }
+          },
+          {
+            "id": "215c98e896205c0d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Ukemi.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Ukemi"
+            }
+          },
+          {
+            "id": "de34d62d2e15618a",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Vista gráfica"
+            }
+          }
+        ],
+        "currentTab": 8
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "f88937f6798f8206",
+    "type": "split",
+    "children": [
+      {
+        "id": "3d547e20aeba05e2",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f8b2ecd141174d8d",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Explorador de archivos"
+            }
+          },
+          {
+            "id": "da2f0ed46392da0d",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Buscar"
+            }
+          },
+          {
+            "id": "2b83c9333630cfbd",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-bookmark",
+              "title": "Marcadores"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "130ec8a91afd5ac3",
+    "type": "split",
+    "children": [
+      {
+        "id": "5623fe99585511f9",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "4f6c26c43c786ce7",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Enlaces entrantes"
+            }
+          },
+          {
+            "id": "168841ac51a3bf13",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Enlaces salientes"
+            }
+          },
+          {
+            "id": "3ac3b53d872ccc0b",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Etiquetas"
+            }
+          },
+          {
+            "id": "5f3d209544c0981c",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "Todas las propiedades"
+            }
+          },
+          {
+            "id": "9fd02475db57c4fa",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Esquema"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Abrir selector rápido": false,
+      "graph:Abrir vista gráfica": false,
+      "canvas:Crear nuevo lienzo": false,
+      "daily-notes:Abrir la nota de hoy": false,
+      "templates:Insertar plantilla": false,
+      "command-palette:Abrir paleta de comandos": false,
+      "bases:Crear nueva base": false
+    }
+  },
+  "active": "de34d62d2e15618a",
+  "lastOpenFiles": [
+    "Ukemi.md",
+    "Entrenamiento.md",
+    "Categorías.md",
+    "Combate.md",
+    "Hansoku-make.md",
+    "Shido.md",
+    "Puntuación.md",
+    "Seguridad.md",
+    "Ne-waza.md",
+    "Juji-gatame.md",
+    "Kesa-gatame.md",
+    "Kansetsu-waza.md",
+    "Shime-waza.md",
+    "Osaekomi-waza.md",
+    "Uchi-komi.md",
+    "Kake.md",
+    "Tsukuri.md",
+    "Kuzushi.md",
+    "Gokyo.md",
+    "Sutemi-waza.md",
+    "Koshi-waza.md",
+    "Ashi-waza.md",
+    "Te-waza.md",
+    "Kumi-kata.md",
+    "Tori y Uke.md",
+    "Kata.md",
+    "Grafo de conocimiento sobre el Judo"
+  ]
+}
